@@ -1,10 +1,18 @@
 import React from "react";
+import DeleteIcon from '@mui/icons-material/Delete';
 
-function Note() {
+function Note(props) {
+  function handleDelete(){
+    props.onDelete(props.id) //taking the id from app and passing it to delte function of app.jsx
+
+  }
   return (
     <div className="note">
-      <h1>This is the note title</h1>
-      <p>This is the note content</p>
+      <h1>{props.title}</h1>
+      <p>{props.content}</p>
+      <button onClick={handleDelete}>
+        <DeleteIcon />
+      </button>
     </div>
   );
 }
