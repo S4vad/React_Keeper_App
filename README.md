@@ -40,8 +40,9 @@ Below is a screenshot of the application interface:
    git clone https://github.com/yourusername/react-notes-app.git  
    cd react-notes-app
    ```
+---
 
-##🚀 Key Functionalities
+## 🚀 Key Functionalities
 -Add Notes: Create and store notes for easy reference.
 -Delete Notes: Remove notes with a single click.
 -Responsive UI: Optimized for all device sizes
