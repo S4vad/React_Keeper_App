@@ -42,8 +42,10 @@ Below is a screenshot of the application interface:
    ```
 ---
 
-## 🚀 Key Functionalities
--Add Notes: Create and store notes for easy reference.
--Delete Notes: Remove notes with a single click.
--Responsive UI: Optimized for all device sizes
--Material-UI Icons: Use Material-UI (MUI) icons to enhance the U
+## 🚀 Key Functionalities  
+
+- **Add Notes**: Create and store notes for easy reference.  
+- **Delete Notes**: Remove notes with a single click.  
+- **Responsive UI**: Optimized for all device sizes.  
+- **Material-UI Icons**: Use Material-UI (MUI) icons to enhance the UI.  
+
