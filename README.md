@@ -37,8 +37,8 @@ Below is a screenshot of the application interface:
 
  **Clone the Repository**  
    ```bash  
-   git clone https://github.com/yourusername/react-notes-app.git  
-   cd react-notes-app
+   git clone https://github.com/S4vad/React_Keeper_App.git
+   cd my-app
    ```
 ---
 
